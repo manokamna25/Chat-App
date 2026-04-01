@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBwcXBmNDQ3MmhvcGtrZmYxaDVveXkxbWgzdzh4cmtxZmxtdHFwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jIGsO4/giphy.gif" alt="App Preview GIF" width="800" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);" />
-  <p><em>✨ Replace the GIF link above with your actual app demo! ✨</em></p>
+  <img src="./demo-preview.png" alt="Lets-Chat App Preview" width="800" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);" />
   
   <br/>
 
